@@ -18,7 +18,7 @@ A simple, beautiful calculator built with HTML, CSS, and JavaScript.
 5. Press "⌫" to delete the last character
 
 ## Live Demo
-[View the live calculator here](https://moustyb.gitlab.io/nCalculator-1.0-for-kids/)
+[View the live calculator here](https://moustyb.github.io/nCalculator-1.0-for-kids/)
 
 ## How to run locally
 1. Save the `index.html` file to your computer
